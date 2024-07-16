@@ -25,6 +25,7 @@ function Card({ id, titulo, capa }) {
                 adicionarFavorito({ id, titulo, capa })
             }}
             />
+            
         </div>
     )
 }
